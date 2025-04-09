@@ -1,2 +1,8 @@
 # Portfolio-Website
-Social Media Work
+Social/Strategy
+/PostSamples
+/ContentCalendars
+/AnalyticsReports
+/MockDesigns
+/VideoScripts
+/README.md Media Work
